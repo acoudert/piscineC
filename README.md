@@ -6,6 +6,8 @@ This exam is supposed to last for 4 weeks. Unfortunately, it lasted for 2 weeks 
 
 That's why our promotion didn't take the Final Exam.
 
+Please note that these codes are not optimized and that they are various ways to do each exercice.
+
 Please find below my grades:
 
 ![grades](https://github.com/acoudert/00-piscine/raw/main/piscine_results.png)
