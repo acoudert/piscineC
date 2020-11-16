@@ -1,0 +1,6 @@
+Credentials cache: API:F59A9967-B042-4831-AF47-979156BF1944
+        Principal: acoudert@42.FR
+
+  Issued                Expires               Principal
+Oct 13 07:45:34 2020  Oct 20 07:45:34 2020  krbtgt/42.FR@42.FR
+Oct 13 07:45:35 2020  Oct 20 07:45:34 2020  HTTP/student-storage-2.42.fr@42.FR
